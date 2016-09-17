@@ -1,13 +1,13 @@
 # lewis_u_avro
 Lewis University Course File For Avro
 
-## Environment : Python 2.7, Ubuntu or CentOS in VirtualBox
+### Environment : Python 2.7, Ubuntu or CentOS in VirtualBox
 
 ####  Vbox: https://www.virtualbox.org/wiki/Downloads
 ####  Centos: http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1511.iso
 ####  Apache Avro Distr. for Python: http://avro.apache.org/docs/1.8.1/gettingstartedpython.html
 
-## STEPS
+### STEPS
 1. Create an instance of a Linux server in VB (I used Centos 7 minimal ISO)
 2. Get the Apache Avro distribution (v. 1.8.1 for python) and install in the Linux server: 
 3. Check installation by :
